@@ -1,6 +1,6 @@
 # 🐍 Complete Python & DSA Bootcamp: Zero to Hero
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.9,3.10,3.12-blue?style=for-the-badge&logo=python&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active%20Learning-green?style=for-the-badge)
 
